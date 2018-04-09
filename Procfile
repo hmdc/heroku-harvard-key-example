@@ -1,1 +1,1 @@
-web: /app/apache/bin/boot.sh npm start
+web: bash ./boot.sh npm start
