@@ -1,1 +1,1 @@
-app: npm start
+web: bin/boot.sh npm start
